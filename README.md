@@ -91,5 +91,11 @@ If you want to see your supervisord.conf file then you can see it here
   ```/etc/supervisor/supervisord.conf```
 
 
+# References
 
+https://medium.com/@jayden.chua/use-supervisor-to-run-your-python-tests-13e91171d6d3
+
+https://medium.com/@joor.loohuis/using-supervisor-for-process-management-66a5cc3d3dfa
+
+http://supervisord.org/introduction.html
 
